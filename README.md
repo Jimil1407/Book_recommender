@@ -37,7 +37,7 @@ Before running the project, ensure you have the following installed:
    git clone https://github.com/Jimil1407/Book_recommender.git
    cd book-recommender
 
-1. **Start Jupyter:
+1. **Start Jupyter:**
    ```bash
    jupyter notebook
 
